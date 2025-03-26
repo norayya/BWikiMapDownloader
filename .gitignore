@@ -398,3 +398,12 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# opencvsharp
+opencv_videoio_ffmpeg4100_64.dll
+OpenCvSharpExtern.dll
+
+# bwikimap
+MAP/
+mapboundary.json
+bigmap*.png
